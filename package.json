@@ -2,7 +2,7 @@
   "name": "simplefolio",
   "version": "1.0.1",
   "private": "true",
-  "homepage": "https://github.com/cobidev/simplefolio#readme",
+  "homepage": "https://nsherban1/github.com/portfolio",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "source": "src/index.html",
   "scripts": {
@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "git+https://nsherban1.github.com/portfolio"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Nico Sherban",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
+    "url": "https://nsherban1.github.com/portfolio/issues"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.1",

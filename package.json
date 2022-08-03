@@ -2,7 +2,7 @@
   "name": "simplefolio",
   "version": "1.0.1",
   "private": "true",
-  "homepage": "https://nsherban1/github.com/portfolio",
+  "homepage": "https://nsherban1.github.com/portfolio",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "source": "src/index.html",
   "scripts": {
